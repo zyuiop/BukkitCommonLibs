@@ -1,0 +1,5 @@
+name: BukkitLibs
+main: net.zyuiop.bukkitlibs.BukkitLibs
+version: 1.0.0
+author: zyuiop
+load: STARTUP
